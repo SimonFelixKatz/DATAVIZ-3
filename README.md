@@ -3,7 +3,7 @@
 Interactive Family Tree
 
 Method: D3.js
-Concept: Interactive vizualisation of my family tree from my mother's side.
+Concept: Interactive visualization of my family tree from my mother's side.
 
 Step 1: D3 example collapse tree
 	- source: https://beta.observablehq.com/@mbostock/collapsible-tree
